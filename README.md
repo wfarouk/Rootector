@@ -1,0 +1,2 @@
+# Rootector
+Android Root Detector
