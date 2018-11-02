@@ -1,6 +1,8 @@
 # Rootector
 Android Root Detector
 
+http://tikzon.com/root/
+http://tikzon.com/root/RootDetector.apk
 
 Android Root is granting administrator access to each application in your mobile, Root is not recommended by most of the mobile vendors but still many Android users root their devices and position their device on very high risk. Many of confidential information can be easily disclosed and increasing the possibilities of getting malware infection. Some users remove the rooting from their device while considering it completely uninstalled, our research is taking the initiative to detect the hidden root in your device as well assess the risk level of the existing root.
 
@@ -76,4 +78,4 @@ Linkedin:  http://www.linkedin.com/in/welsersy
 
 http://www.orcid.org/0000-0002-7501-6889
 
- 
+
